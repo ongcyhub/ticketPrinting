@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="sourcelocation">F:\\workspace\\ticketPrinting\\data\\Data.csv</entry>
+    <entry key="generateLocation">F:\\workspace\\ticketPrinting\\output\\</entry>
+    <entry key="ticketPage">8</entry>
+    <entry key="catANum">86</entry>
+    <entry key="catBNum">91</entry>
+    <entry key="separator">,</entry>
+    <entry key="increment">11</entry>
+    <entry key="catAPages">11</entry>
+    <entry key="catBPages">12</entry>
+</properties> 
